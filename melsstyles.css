@@ -1,0 +1,12 @@
+.blue {
+    text-color: blue;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 15px 5px 15px 5px;
+}
+a{
+    color: white
+}
